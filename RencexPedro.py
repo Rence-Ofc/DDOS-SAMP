@@ -4,11 +4,11 @@ import random
 import socket
 import threading
 
-print("~~~ DDOS TOOLS By Rence ~~~")
-print("~~~ Code and Scripted by Rence ~~~")
-print("~~~ Script ini dibuat hanya untuk rence Pribadi. ~~~")
-print("~~~ Don't Forget to subscribe Ren Samp ~~~")
-print("~~~ DDOS by rence dibuat hanya untuk kontent. ~~~")
+print("~~~ DDOS TOOLS By Pedro ~~~")
+print("~~~ Code and Scripted by Pedro ~~~")
+print("~~~ Script ini dibuat hanya untuk Pedro Pribadi. ~~~")
+print("~~~ Don't Forget to subscribe by Pedro ~~~")
+print("~~~ DDOS by Pedro dibuat hanya untuk kontent. ~~~")
 ip = str(input(" Target Ip:"))
 port = int(input(" Target Port:"))
 choice = str(input(" UDP(y/n):"))
